@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Avis Support Autofill
 // @namespace    https://github.com/ehautoslash/ASHS-tampermonkey-scripts
-// @version      1.0.1
+// @version      1.0.2
 // @description  Autofill Avis customer support form at avis.us.abgcustomerservice.com/createTicket
 // @author       Eric House
 // @match        https://avis.us.abgcustomerservice.com/createTicket
